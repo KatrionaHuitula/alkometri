@@ -3,8 +3,8 @@ import './App.css'
 
 function App () {
   const [paino, setPaino] = useState(0)
-  const [pullot, setPullot] = useState(0)
-  const [aika, setAika] = useState(0)
+  const [pullot, setPullot] = useState(1)
+  const [aika, setAika] = useState(1)
   const [sukupuoli, setSukupuoli] = useState('nainen')
   const [tulos, setTulos] = useState(0)
 
